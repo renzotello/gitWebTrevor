@@ -3,7 +3,7 @@
  * Gets the email message from the user's mailbox to add as
  * a WordPress post. Mailbox connection information must be
  * configured under Settings > Writing
- *
+ * Mail change
  * @package WordPress
  */
 
