@@ -1,6 +1,23 @@
 <?php
 /**
  * Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
+ ** Handle Trackbacks and Pingbacks Sent to WordPress
  *
  * @since 0.71
  *
